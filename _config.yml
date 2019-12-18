@@ -1,0 +1,22 @@
+testing: false
+analytics: true
+# Site settings
+title: "Math 492: Honors Seminar"
+page_title: "Math 492: Honors Seminar"
+course_title: "Rutgers MATH 492, Sprin 2020."
+description: "Arithmetic, algebraic and analytic perspectives of the concept of resonance."
+instructor: "Daniel Krashen"
+email: "daniel.krashen+honors.seminar@gmail.com"
+office: "Hill Center 220 (Busch Campus)"
+office_hours: "TBA"
+lecture_schedule: "TBD"
+
+baseurl: "/resonance"
+url: "http://dkrashen.github.io"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

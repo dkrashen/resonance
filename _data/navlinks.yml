@@ -1,0 +1,13 @@
+-   id: "home_link"
+    title: "Home"
+    url: "/"
+-   id: "schedule"
+    title: "Schedule"
+    url: "/schedule/"
+-   id: "notes_link"
+    title: "Notes"
+    url: "/lectures/"
+-   id: "instructor"
+    title: "Instructor's home page"
+    url: "http://dkrashen.github.io"
+    prepend: false

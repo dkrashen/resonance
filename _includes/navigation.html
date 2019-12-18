@@ -1,0 +1,13 @@
+<ul class="nav nav-pills">
+{% for n in site.data.navlinks %}
+	<li id="{{n.id}}">
+		{% unless n.prepend == false %}
+		<a href="{{ n.url | prepend: site.baseurl }}">
+		{% else %}
+		<a href="{{ n.url }}">
+		{% endunless %}
+			{{n.title}}
+		</a>
+	<li>
+{% endfor %}
+</ul>

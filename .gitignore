@@ -1,0 +1,8 @@
+_site/*
+.sass-cache
+*.swp
+.jekyll-metadata
+todo.txt
+*.picasa.ini
+*.DS_Store
+Icon*
